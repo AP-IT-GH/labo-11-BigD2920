@@ -1,0 +1,16 @@
+:root {
+    --bg-color: rgb(244,244,244);
+    --secondary-color: rgb(231,227,79);
+    --primary-color: rgb(18,18,18); 
+    --tertiary-color: rgb(100,100,100);
+    --link-color: rgb(149,147,100); 
+}
+body {
+    max-width: 100vh;
+}
+
+#teaser {
+    background-image: url(/labo-11-BigD2920/images/backgroundindex.jpeg);
+    width:max-content;
+    height:400px;
+}

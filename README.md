@@ -1,4 +1,4 @@
-# Oefeningen labo 12
+  # Oefeningen labo 12
 
 Zorg dat je de volgende folder structuur volgt:
 
@@ -69,12 +69,12 @@ Test je website op responsiviteit, zodat die werkt op alle schermgroottes.
   - Portfolio section (section met id="portfolio")
     - een **wrapping flexbox** waarin 3 items naast elkaar passen op desktop.
     - de flex-items moeten naar de volgende lijn geduwd worden wanneer de minimum breedte niet gegarandeerd kan worden.
-- Contact section (section met id="contact")
+ Contact section (section met id="contact")
   - Rechts staat de contact info
-  - Onderaan staan de social media icons met links (href="#")
-- Footer
-  - Footertekst
-  - ©-symbool wordt geschreven als HTML-entiteit.
+   Onderaan staan de social media icons met links (href="#")
+ Footer
+   Footertekst
+ ©-symbool wordt geschreven als HTML-entiteit.
 
 #### CSS
 
